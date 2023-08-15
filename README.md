@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Springboot, Reactive programming, Python,HTML, CSS, Java script**
 
-- 📫 How to reach me **saannimesh@gmail.com**
+- 📫 How to reach me : **saannimesh@gmail.com** || **+94 71 013 2681**
 
 - ⚡ Fun fact **I don't take anything serious.**
 
