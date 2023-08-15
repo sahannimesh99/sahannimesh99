@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahannimesh99](https://github.com/sahannimesh99)
 
-- 💬 Ask me about **Java, Springboot, Reactive programming, Python,HTML, CSS, Java script**
+- 💬 Ask me about **Java, Springboot, Reactive programming, Python, HTML, CSS, Java script**
 
 - 📫 How to reach me : **saannimesh@gmail.com** || **+94 71 013 2681**
 
