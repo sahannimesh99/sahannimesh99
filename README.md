@@ -67,6 +67,7 @@ Backend Engineering:
   - REST APIs
   - Microservices
   - Distributed Systems
+  - Python
 
 Frontend Engineering:
   - React
