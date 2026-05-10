@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="27%" height="190px">
 
 <h1 align="center">
-  Sahan Nimesha
+ Hi 👋, I'm <span style="color:#00BFFF;">Sahan Nimesha</span>
 </h1>
 
 <h3 align="center">
