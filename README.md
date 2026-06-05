@@ -138,11 +138,12 @@ Architecture:
 ---
 
 # 📊 GitHub Analytics
-<p align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahannimesh99&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahannimesh99&theme=tokyonight" />
 
 </p>
+
 
 ---
 
